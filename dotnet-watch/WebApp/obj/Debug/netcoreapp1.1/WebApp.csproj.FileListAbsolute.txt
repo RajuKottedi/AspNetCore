@@ -1,0 +1,8 @@
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\bin\Debug\netcoreapp1.1\WebApp.deps.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.dev.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\bin\Debug\netcoreapp1.1\WebApp.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\bin\Debug\netcoreapp1.1\WebApp.pdb
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\obj\Debug\netcoreapp1.1\WebApp.AssemblyInfo.cs
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\obj\Debug\netcoreapp1.1\WebApp.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebApp\obj\Debug\netcoreapp1.1\WebApp.pdb

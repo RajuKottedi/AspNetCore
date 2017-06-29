@@ -1,0 +1,13 @@
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\WebAppTests.deps.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\WebAppTests.runtimeconfig.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\WebAppTests.runtimeconfig.dev.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\WebAppTests.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\WebAppTests.pdb
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\WebApp.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\bin\Debug\netcoreapp1.1\WebApp.pdb
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\obj\Debug\netcoreapp1.1\WebAppTests.AssemblyInfo.cs
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\obj\Debug\netcoreapp1.1\WebAppTests.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\dotnet-watch\WebAppTests\obj\Debug\netcoreapp1.1\WebAppTests.pdb

@@ -1,0 +1,8 @@
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\bin\Debug\netcoreapp1.1\aspnetmvcapp.deps.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\bin\Debug\netcoreapp1.1\aspnetmvcapp.runtimeconfig.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\bin\Debug\netcoreapp1.1\aspnetmvcapp.runtimeconfig.dev.json
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\bin\Debug\netcoreapp1.1\aspnetmvcapp.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\bin\Debug\netcoreapp1.1\aspnetmvcapp.pdb
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\obj\Debug\netcoreapp1.1\aspnetmvcapp.AssemblyInfo.cs
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\obj\Debug\netcoreapp1.1\aspnetmvcapp.dll
+C:\Users\bkottedi\Documents\LearningPhase\DotNetCore\aspnetmvcapp\obj\Debug\netcoreapp1.1\aspnetmvcapp.pdb
